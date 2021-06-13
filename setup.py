@@ -10,7 +10,7 @@ else:
 
 setuptools.setup(
     name='selenium_cookies',
-    version='0.0.1',
+    version='0.0.2',
     author='Kristóf-Attila Kovács',
     description='selenium_cookies',
     long_description=long_description,
