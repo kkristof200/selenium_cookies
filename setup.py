@@ -9,8 +9,8 @@ else:
     long_description = 'selenium_cookies'
 
 setuptools.setup(
-    name='selenium_cookies',
-    version='0.0.3',
+    name='k_selenium_cookies',
+    version='0.0.4',
     author='Kristóf-Attila Kovács',
     description='k_selenium_cookies',
     long_description=long_description,
