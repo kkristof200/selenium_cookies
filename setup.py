@@ -10,9 +10,9 @@ else:
 
 setuptools.setup(
     name='selenium_cookies',
-    version='0.0.2',
+    version='0.0.3',
     author='Kristóf-Attila Kovács',
-    description='selenium_cookies',
+    description='k_selenium_cookies',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/kkristof200/selenium_cookies',
